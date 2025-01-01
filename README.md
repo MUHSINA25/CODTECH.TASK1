@@ -1,5 +1,19 @@
 # CODTECH.TASK1
+
 # EDA on Iris Dataset
+
+**COMPANY**: CODTECT IT SOLUTIONS
+
+**NAME**:MUHSINA CT
+
+**INTERN ID**:CT08FAA
+
+**DOMAIN**:DATA SCIENCE
+
+**BATCH DURATION**:20 DECEMBER 2024 TO 20 JANUARY 2025
+
+**TASK DESCRIPTION**:
+
 
 ## Overview
 This project performs Exploratory Data Analysis (EDA) on the Iris dataset. The dataset contains measurements of 150 iris flowers from three species: *setosa*, *versicolor*, and *virginica*.
